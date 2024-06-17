@@ -2,7 +2,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 <h1 align="center">Hi 👋, I'm vishal kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&psig=AOvVaw2ChEVPtZ3ImZFLIoFuFHZV&ust=1718698638237000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD7ycOZ4oYDFQAAAAAdAAAAABAE" width="400px">
+
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&psig=AOvVaw2ChEVPtZ3ImZFLIoFuFHZV&ust=1718698638237000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD7ycOZ4oYDFQAAAAAdAAAAABAE" alt="Example Image" width="500" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemage007&label=Profile%20views&color=0e75b6&style=flat" alt="codemage007" /> </p>
 
@@ -25,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemage007&show_icons=true&locale=en" alt="codemage007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemage007&" alt="codemage007" /></p>
-
